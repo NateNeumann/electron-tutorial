@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/nateneumann/electron-tutorial#readme",
   "dependencies": {
-    "electron": "^2.0.5"
+    "electron": "^2.0.5",
+    "electron-json-storage": "^4.1.1"
   },
   "devDependencies": {
     "electron-packager": "^12.1.0"

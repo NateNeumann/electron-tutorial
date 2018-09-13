@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  justify-content: center;
+  font-family: Avenir;
+}
+
+#result-morse {
+  border-bottom: 1px solid black;
+}
